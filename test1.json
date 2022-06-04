@@ -1,0 +1,17 @@
+{
+  "name": "Airbus",
+  "liveryId": 4,
+  "url": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_4.jpg"
+},
+
+{
+  "name": "Airbus",
+  "livery": 5,
+  "multiplayer": "https://www.geo-fs.com/backend/aircraft/repository/....[multiplayer textures link]"
+},
+
+{
+  "name": "Airbus",
+  "livery": 6,
+  "multiplayer": "https://www.geo-fs.com/backend/aircraft/repository/....[multiplayer textures link]"
+}
