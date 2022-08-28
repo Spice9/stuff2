@@ -1,6 +1,6 @@
 console.log("Loading...");
 let livObj;
- await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/liveries.json")
+ await fetch("https://raw.githubusercontent.com/Spice9/stuff2/main/Liveries%20-%20Copy.json")
  .then(res => res.json())
  .then(data => livObj = data) 
 if (geofs.version == 2.9) { //should work with URLs and livery IDs now, legacy geofs compat.
